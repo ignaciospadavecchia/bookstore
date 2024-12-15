@@ -1,0 +1,3 @@
+wwwroot\Archivo.txt
+wwwroot\log.txt
+wwwroot\logerrores.txt

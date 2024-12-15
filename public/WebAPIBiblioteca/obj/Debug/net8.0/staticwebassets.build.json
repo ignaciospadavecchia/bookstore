@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "3n97x0XjYish2sooMMO2UtW6caEHs6Arb0Jl6F/b2gU=",
+  "Source": "WebAPIBiblioteca",
+  "BasePath": "_content/WebAPIBiblioteca",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPIBiblioteca\\wwwroot",
+      "Source": "WebAPIBiblioteca",
+      "ContentRoot": "C:\\Users\\Inatxio\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\",
+      "BasePath": "_content/WebAPIBiblioteca",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Inatxio\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\Archivo.txt",
+      "SourceId": "WebAPIBiblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Inatxio\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\",
+      "BasePath": "_content/WebAPIBiblioteca",
+      "RelativePath": "Archivo#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qor53hn7lh",
+      "Integrity": "lu0yLKjp2q6ij2fSOFityv/udW+oxADu3wcVL7uOeSU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Archivo.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Inatxio\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\log.txt",
+      "SourceId": "WebAPIBiblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Inatxio\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\",
+      "BasePath": "_content/WebAPIBiblioteca",
+      "RelativePath": "log#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b8ygjxnstb",
+      "Integrity": "S5gkAGzKb19g2JkNkitPbh1ZYGuUi02LZOpWNHI1Op0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\log.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Inatxio\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\logerrores.txt",
+      "SourceId": "WebAPIBiblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Inatxio\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\",
+      "BasePath": "_content/WebAPIBiblioteca",
+      "RelativePath": "logerrores#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c1f40iw5ok",
+      "Integrity": "IO0jiLS84hprPJSt8VyAo1MjFgepRugLNEs4euNAv8Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logerrores.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Archivo.qor53hn7lh.txt",
+      "AssetFile": "C:\\Users\\Inatxio\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\Archivo.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lu0yLKjp2q6ij2fSOFityv/udW+oxADu3wcVL7uOeSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Nov 2024 10:07:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qor53hn7lh"
+        },
+        {
+          "Name": "label",
+          "Value": "Archivo.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lu0yLKjp2q6ij2fSOFityv/udW+oxADu3wcVL7uOeSU="
+        }
+      ]
+    },
+    {
+      "Route": "Archivo.txt",
+      "AssetFile": "C:\\Users\\Inatxio\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\Archivo.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lu0yLKjp2q6ij2fSOFityv/udW+oxADu3wcVL7uOeSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Nov 2024 10:07:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lu0yLKjp2q6ij2fSOFityv/udW+oxADu3wcVL7uOeSU="
+        }
+      ]
+    },
+    {
+      "Route": "log.b8ygjxnstb.txt",
+      "AssetFile": "C:\\Users\\Inatxio\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\log.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S5gkAGzKb19g2JkNkitPbh1ZYGuUi02LZOpWNHI1Op0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 16:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b8ygjxnstb"
+        },
+        {
+          "Name": "label",
+          "Value": "log.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S5gkAGzKb19g2JkNkitPbh1ZYGuUi02LZOpWNHI1Op0="
+        }
+      ]
+    },
+    {
+      "Route": "log.txt",
+      "AssetFile": "C:\\Users\\Inatxio\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\log.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S5gkAGzKb19g2JkNkitPbh1ZYGuUi02LZOpWNHI1Op0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 16:37:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S5gkAGzKb19g2JkNkitPbh1ZYGuUi02LZOpWNHI1Op0="
+        }
+      ]
+    },
+    {
+      "Route": "logerrores.c1f40iw5ok.txt",
+      "AssetFile": "C:\\Users\\Inatxio\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\logerrores.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IO0jiLS84hprPJSt8VyAo1MjFgepRugLNEs4euNAv8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 16:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c1f40iw5ok"
+        },
+        {
+          "Name": "label",
+          "Value": "logerrores.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IO0jiLS84hprPJSt8VyAo1MjFgepRugLNEs4euNAv8Y="
+        }
+      ]
+    },
+    {
+      "Route": "logerrores.txt",
+      "AssetFile": "C:\\Users\\Inatxio\\Desktop\\WebAPIAlmacen\\WebAPIBiblioteca\\wwwroot\\logerrores.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IO0jiLS84hprPJSt8VyAo1MjFgepRugLNEs4euNAv8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 16:37:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IO0jiLS84hprPJSt8VyAo1MjFgepRugLNEs4euNAv8Y="
+        }
+      ]
+    }
+  ]
+}

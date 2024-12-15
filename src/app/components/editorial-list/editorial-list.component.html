@@ -1,0 +1,17 @@
+<div class="container mt-4">
+  <h2>Editoriales</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Nombre</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let editorial of editoriales">
+        <td>{{editorial.idEditorial}}</td>
+        <td>{{editorial.nombre}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div> 

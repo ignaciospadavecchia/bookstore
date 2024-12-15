@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Archivo.qor53hn7lh.txt",
+      "AssetFile": "Archivo.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lu0yLKjp2q6ij2fSOFityv/udW+oxADu3wcVL7uOeSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Nov 2024 10:07:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qor53hn7lh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lu0yLKjp2q6ij2fSOFityv/udW+oxADu3wcVL7uOeSU="
+        },
+        {
+          "Name": "label",
+          "Value": "Archivo.txt"
+        }
+      ]
+    },
+    {
+      "Route": "Archivo.txt",
+      "AssetFile": "Archivo.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lu0yLKjp2q6ij2fSOFityv/udW+oxADu3wcVL7uOeSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Nov 2024 10:07:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lu0yLKjp2q6ij2fSOFityv/udW+oxADu3wcVL7uOeSU="
+        }
+      ]
+    },
+    {
+      "Route": "log.b8ygjxnstb.txt",
+      "AssetFile": "log.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S5gkAGzKb19g2JkNkitPbh1ZYGuUi02LZOpWNHI1Op0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 16:37:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b8ygjxnstb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S5gkAGzKb19g2JkNkitPbh1ZYGuUi02LZOpWNHI1Op0="
+        },
+        {
+          "Name": "label",
+          "Value": "log.txt"
+        }
+      ]
+    },
+    {
+      "Route": "log.txt",
+      "AssetFile": "log.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S5gkAGzKb19g2JkNkitPbh1ZYGuUi02LZOpWNHI1Op0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 16:37:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S5gkAGzKb19g2JkNkitPbh1ZYGuUi02LZOpWNHI1Op0="
+        }
+      ]
+    },
+    {
+      "Route": "logerrores.c1f40iw5ok.txt",
+      "AssetFile": "logerrores.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IO0jiLS84hprPJSt8VyAo1MjFgepRugLNEs4euNAv8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 16:37:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c1f40iw5ok"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IO0jiLS84hprPJSt8VyAo1MjFgepRugLNEs4euNAv8Y="
+        },
+        {
+          "Name": "label",
+          "Value": "logerrores.txt"
+        }
+      ]
+    },
+    {
+      "Route": "logerrores.txt",
+      "AssetFile": "logerrores.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IO0jiLS84hprPJSt8VyAo1MjFgepRugLNEs4euNAv8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 16:37:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IO0jiLS84hprPJSt8VyAo1MjFgepRugLNEs4euNAv8Y="
+        }
+      ]
+    }
+  ]
+}

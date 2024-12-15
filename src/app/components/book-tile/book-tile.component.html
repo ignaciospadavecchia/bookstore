@@ -1,0 +1,22 @@
+<div class="card h-100">
+  <img [src]="book.fotoPortadaUrl" class="card-img-top" [alt]="book.titulo">
+  <div class="card-body">
+    <h5 class="card-title">{{book.titulo}}</h5>
+    <p class="card-text">
+      <small>ISBN: {{book.isbn}}</small><br>
+      <small>Pages: {{book.paginas}}</small>
+    </p>
+    <p class="card-text">
+      <strong>Price: ${{book.precio}}</strong>
+    </p>
+    <div class="d-flex justify-content-between">
+      <button class="btn btn-sm btn-primary" (click)="buyBook()" [disabled]="book.descatalogados">
+        {{ book.descatalogados ? 'Out of Stock' : 'Buy' }}
+      </button>
+      <div class="btn-group">
+        <button class="btn btn-sm btn-warning">Edit</button>
+        <button class="btn btn-sm btn-danger" (click)="deleteBook()">Delete</button>
+      </div>
+    </div>
+  </div>
+</div> 

@@ -1,0 +1,7 @@
+<div class="container mt-4">
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+    <div class="col" *ngFor="let book of books">
+      <app-book-tile [book]="book" (bookUpdated)="loadBooks()"></app-book-tile>
+    </div>
+  </div>
+</div> 

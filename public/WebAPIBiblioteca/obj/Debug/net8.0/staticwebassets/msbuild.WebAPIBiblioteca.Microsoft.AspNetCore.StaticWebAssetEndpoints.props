@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/WebAPIBiblioteca/Archivo.qor53hn7lh.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Archivo.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qor53hn7lh"},{"Name":"integrity","Value":"sha256-lu0yLKjp2q6ij2fSOFityv/udW\u002BoxADu3wcVL7uOeSU="},{"Name":"label","Value":"_content/WebAPIBiblioteca/Archivo.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"89"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022lu0yLKjp2q6ij2fSOFityv/udW\u002BoxADu3wcVL7uOeSU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 10:07:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebAPIBiblioteca/Archivo.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Archivo.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lu0yLKjp2q6ij2fSOFityv/udW\u002BoxADu3wcVL7uOeSU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"89"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022lu0yLKjp2q6ij2fSOFityv/udW\u002BoxADu3wcVL7uOeSU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 10:07:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebAPIBiblioteca/log.b8ygjxnstb.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\log.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b8ygjxnstb"},{"Name":"integrity","Value":"sha256-S5gkAGzKb19g2JkNkitPbh1ZYGuUi02LZOpWNHI1Op0="},{"Name":"label","Value":"_content/WebAPIBiblioteca/log.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4915"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022S5gkAGzKb19g2JkNkitPbh1ZYGuUi02LZOpWNHI1Op0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Dec 2024 16:37:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebAPIBiblioteca/log.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\log.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-S5gkAGzKb19g2JkNkitPbh1ZYGuUi02LZOpWNHI1Op0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4915"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022S5gkAGzKb19g2JkNkitPbh1ZYGuUi02LZOpWNHI1Op0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Dec 2024 16:37:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebAPIBiblioteca/logerrores.c1f40iw5ok.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\logerrores.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c1f40iw5ok"},{"Name":"integrity","Value":"sha256-IO0jiLS84hprPJSt8VyAo1MjFgepRugLNEs4euNAv8Y="},{"Name":"label","Value":"_content/WebAPIBiblioteca/logerrores.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1793"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022IO0jiLS84hprPJSt8VyAo1MjFgepRugLNEs4euNAv8Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Dec 2024 16:37:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebAPIBiblioteca/logerrores.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\logerrores.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IO0jiLS84hprPJSt8VyAo1MjFgepRugLNEs4euNAv8Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1793"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022IO0jiLS84hprPJSt8VyAo1MjFgepRugLNEs4euNAv8Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Dec 2024 16:37:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
